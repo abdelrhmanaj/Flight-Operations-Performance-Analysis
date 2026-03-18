@@ -19,7 +19,8 @@ It allows users to monitor airline performance, delay trends, cancellations, div
 ---
 
 ## 📊 Dataset Information
-**Dataset:** flight_data_2024.csv  https://docs.google.com/spreadsheets/d/1lXBTnTb2Onv9KuRPU4Fqvz0beThToG1o/edit?usp=sharing&ouid=111446746885125480186&rtpof=true&sd=true
+**Dataset:** flight_data_2024.csv https://docs.google.com/spreadsheets/d/1lXBTnTb2Onv9KuRPU4Fqvz0beThToG1o/edit?usp=drive_link&ouid=111446746885125480186&rtpof=true&sd=true
+
 **Coverage:** Domestic Flights (USA)  
 **Period:** January 2024 – December 2024  
 **Granularity:** One record per flight  
