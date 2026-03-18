@@ -43,6 +43,7 @@ It allows users to monitor airline performance, delay trends, cancellations, div
 ---
 
 ## 📊 Dashboard Visualizations
+![Power BI Dashboard](Dashboard.png)
 - Monthly On-Time Arrival Trend  
 - Top 10 Carriers by Average Arrival Delay  
 - Top 10 Origin Airports by Departure Delay  
